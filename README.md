@@ -1,5 +1,3 @@
 # screeny
 
-- a
-- b
-  dddd
+- https://ibb.co/mRRY2Lp
